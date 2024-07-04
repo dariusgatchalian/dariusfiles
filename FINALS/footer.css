@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.baba{
+    background-color: maroon;
+}
+#facebook {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fab {
+    position: relative;
+    font-size: 1cm;
+    margin-right: 15px;
+    color: goldenrod;
+}
+#youtube {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lab {
+    font-size: 1cm;
+    margin-right: 10px;
+    color: goldenrod;
+    position: relative;
+
+}
+.contact {
+    position:relative;
+    color: black;
+    bottom: 100px;
+    text-align: center;
+}

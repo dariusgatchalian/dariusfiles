@@ -1,0 +1,126 @@
+.bodypic img{
+    background-size: cover;
+    width: 100%;
+}
+h1 {
+  position: relative;
+  font-size: 1cm;
+  margin:1cm;
+  text-align: center;
+  bottom: 600px;
+ }
+h3 {
+  position: relative;
+  font-size: .5cm;
+  margin: 2.5cm;
+  text-align: center;
+  bottom: 600px;
+ }
+ .enroll {
+    position: relative;
+    bottom: 800px;
+    background-color: maroon;
+    color: white; 
+    padding: 10px 20px; 
+    border: none; 
+    cursor: pointer; 
+    display: block;
+    margin: 0 auto;
+  }
+
+  h2{
+    color: black;
+    font-size: 1cm;
+    font-weight: 300;
+    text-align: center;
+}
+ p {
+    font-size: 1cm;
+    margin: 2.5cm;
+    text-align: center;
+ }
+#text h2 p{
+  font-size: 1cm;
+    margin: 2.5cm;
+    text-align: center;
+}
+#sect h2 p {
+  font-size: 1cm;
+    margin: 2.5cm;
+    text-align: center;
+}
+
+#sect h2 p {
+  font-size: 1cm;
+  text-justify: auto;
+  margin: 2.5cm;
+  text-align: center;
+
+}
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+a {
+  position: center;
+  font-size: larger;
+}
+.himno {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: justify;
+  font-size: 1cm;
+  overflow-y: auto; 
+  max-height: 600px; 
+  padding: 20px;
+  white-space: pre-wrap; 
+  line-height: 1.6;
+}
+.bwct {
+  position: relative;
+  justify-content: center ;
+}
+  h1 {
+      font-size: 2em; 
+      margin-bottom: 20px; 
+  }
+
+  h3 {
+      font-size: 1em; 
+      margin-bottom: 20px;
+  }
+
+  .bwct {
+      text-align: center; 
+  }
+
+  .enroll {
+      position: relative; 
+      bottom: initial; 
+      margin: 20px auto;
+  }
+
+
+  h1 {
+      font-size: 1.5em; 
+  }
+
+  h3 {
+      font-size: 0.8em; 
+  }
